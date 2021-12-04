@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="main.css"> 
+  <title>curry</title>
+  <script src="https://kit.fontawesome.com/8d5b00f78e.js" crossorigin="anonymous"></script>
+ </head>
+  <body>
+  <nav class="navbar">
+  	<div class="navbar_logo">
+		<i class="fas fa-basketball-ball"></i>
+		<a href="main.html">curry</a>
+	</div>
+	<ul class="navbar_menu">
+		<li><a href="a.html">Who</a></li>
+		<li><a href="gallary.html">Gallary</a></li>
+		<li><a href="youtube.html">detail</a></li>
+	</ul>
+	<ul class="navbar_icons">
+	 <li><a href="https://www.instagram.com/stephencurry30/"><i class="fab fa-instagram"></i></a></li>
+	</ul>
+	</nav>
+	<div>
+	<h1 class="text"></h1>
+	<script src="main.js"></script>
+</div>
+  <style>
+ body{background-image: url('currymain.png');}
+ </style>
+ </body>
+</html>

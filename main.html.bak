@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <title>travel</title>
+  <script src="https://kit.fontawesome.com/8d5b00f78e.js" crossorigin="anonymous"></script>
+ </head>
+  <body>
+  <nav class="navbar">
+  	<div class="navbar_logo">
+		<i class="fas fa-plane"></i>
+		<a href="main.html">travel</a>
+	</div>
+	<ul class="navbar_menu">
+		<li><a href="a.html">Who</a></li>
+		<li><a href="">Gallery</a></li>
+		<li><a href="">detail</a></li>
+	</ul>
+	<ul class="navbar_icons">
+	 <li><a href="https://www.instagram.com/stephencurry30/"><i class="fab fa-instagram"></i></li>
+	</ul>
+	</nav>
+  <style>
+ body{background-image: url('currymain.png');}
+ </style>
+ </body>
+</html>

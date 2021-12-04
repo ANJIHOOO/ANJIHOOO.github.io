@@ -1,0 +1,31 @@
+
+li{list-style:none;}
+.slides img{ width: 400px; height: 500px;}
+.slide_wrapper{
+    POSITION: RELATIVE;
+    width: 1260px;
+    margin: 0 auto;
+    height: 500px;
+    overflow:hidden;
+  }
+.slides{
+        position: absoulte;
+        left: 0; top:0;
+        transition:left 0.5s ease-out;
+    }
+.slides li:not(:last-child){
+        float: left;
+        margin-right: 30px;
+} 
+.controls{
+    text-align: center;
+    margin-top: 50px;
+}
+.controls span{
+    background: #333;
+    color: #fff;
+    padding: 10px 20px;
+    margin:0 10px;
+ 
+}
+body{background-color: aliceblue;}
